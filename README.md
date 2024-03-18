@@ -5,13 +5,13 @@
   This is a tool for checking validity of a phone number
 
  
-  And fetching its Carrier, Country/Region and Time-zone
+  And fetching its Carrier name, Country/Region and Time-zone
 
  
   It is an offline tool as it doesnt need any internet connection
 
 
-  Just clone the repo and install its dependencies and turn off your internet connection]
+  Just clone the repo and install its dependencies and turn off your internet connection
 
 
   And you can start using the tool
